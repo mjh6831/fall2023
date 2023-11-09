@@ -1,4 +1,4 @@
-Participant,Item,SentType,Rating,TrialOrder,State
+Participant,Item,SentType,Rating,TrialOrder,Region
 1,7,like,1,20,NE
 1,19,like,1,26,NE
 1,15,like,1,29,NE
